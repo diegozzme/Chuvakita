@@ -1,4 +1,4 @@
-- 👋 Hola!!!!, yo soy Diego González (@Chuvakita)
+- 👋 Hola!!!!, yo soy Diego (@Chuvakita)
 - 👀 Me interesa la inteligencia artificial, ciberseguridad, programación de algoritmos y la química ...
 - 🌱 Actualmente estoy estudiando Ingenieria en Informática y Telecomunicaciones
 - 📫 Me puede contactar a mi correo dgonzalezm5@uft.edu
